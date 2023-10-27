@@ -75,9 +75,11 @@ h3{
     border: 0px;
     height: 100px;
     align-content: center;
+    text-decoration: none;
 }
 
 .nav div{
+    text-decoration: none;
     width: 20px;
     border: 10px;
     margin: 10px;
